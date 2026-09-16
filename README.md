@@ -100,7 +100,7 @@ I'm an **Aspiring Data Analyst** from India who loves turning raw, messy data in
   </a>
   &nbsp;
   <a href="mailto:godsaydilkhushemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-youremail-F97316?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-godsaydilkhushmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/DataWithDilkhush">
