@@ -79,7 +79,8 @@ I'm an **Aspiring Data Analyst** from India who loves turning raw, messy data in
 
 | Project | Tools | Status |
 |---------|-------|--------|
-| HR Analytics Dashboard | Power BI + Excel | 🔄 In Progress |
+| Spotify Music Dashboard | SQL + Power BI | 🔄 In Progress |
+| HR Analytics Dashboard | Power BI + Excel | 📅 Coming Soon  |
 | SQL Sales EDA | PostgreSQL | 📅 Coming Soon |
 | Python Data Analysis | Python + Pandas + Matplotlib | 📅 Coming Soon |
 
