@@ -99,7 +99,7 @@ I'm an **Aspiring Data Analyst** from India who loves turning raw, messy data in
     <img src="https://img.shields.io/badge/LinkedIn-dilkhush--godsay-F97316?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:godsaydilkhushemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-youremail-F97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
