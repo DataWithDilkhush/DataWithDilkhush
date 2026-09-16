@@ -3,11 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DataWithDilkhush&label=Profile%20Views&color=F97316&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DataWithDilkhush?label=Followers&style=flat-square&color=F97316" alt="Followers" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=header&text=Data%20Analyst%20in%20the%20Making&fontColor=ffffff&fontSize=28&fontAlignY=45&desc=SQL%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20Python&descAlignY=70&descSize=16" />
 </p>
 
