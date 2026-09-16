@@ -85,18 +85,6 @@ I'm an **Aspiring Data Analyst** from India who loves turning raw, messy data in
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DataWithDilkhush&show_icons=true&theme=dark&title_color=F97316&icon_color=F97316&border_color=F97316" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataWithDilkhush&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&border=F97316" />
-</p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithDilkhush&layout=compact&theme=dark&title_color=F97316&border_color=F97316" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
